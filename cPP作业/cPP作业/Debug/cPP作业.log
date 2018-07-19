@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/7/17 17:06:23。
+     1>项目“D:\代码\xuming\cPP作业\cPP作业\cPP作业.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "辅.cpp"
+         辅.cpp
+     1>d:\代码\xuming\cpp作业\cpp作业\辅.cpp(3): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>d:\代码\xuming\cpp作业\cpp作业\辅.cpp(3): error C2556: “int ADD(void)”: 重载函数与“float ADD(void)”只是在返回类型上不同
+                 d:\代码\xuming\cpp作业\cpp作业\辅.cpp(2) : 参见“ADD”的声明
+     1>d:\代码\xuming\cpp作业\cpp作业\辅.cpp(3): error C2371: “ADD”: 重定义；不同的基类型
+                 d:\代码\xuming\cpp作业\cpp作业\辅.cpp(2) : 参见“ADD”的声明
+     1>已完成生成项目“D:\代码\xuming\cPP作业\cPP作业\cPP作业.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.16

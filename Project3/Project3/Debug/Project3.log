@@ -1,0 +1,14 @@
+﻿生成启动时间为 2017/3/24 21:18:25。
+     1>项目“D:\代码\xuming\Project3\Project3\Project3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "源.c"
+         源.c
+     1>d:\代码\xuming\project3\project3\源.c(152): warning C4013: “system”未定义；假设外部返回 int
+       Link:
+         D:\visual\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\代码\xuming\Project3\Debug\Project3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\代码\xuming\Project3\Debug\Project3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\代码\xuming\Project3\Debug\Project3.lib" /MACHINE:X86 "Debug\源.obj"
+     1>LINK : fatal error LNK1168: 无法打开 D:\代码\xuming\Project3\Debug\Project3.exe 进行写入
+     1>已完成生成项目“D:\代码\xuming\Project3\Project3\Project3.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.30
